@@ -1,0 +1,1 @@
+include ':app', ':ciruy-annotations', ':ciruy-compiler', ':ciruy-core', ':ciruy-ec'

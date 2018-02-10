@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CampusHelper.iml" filepath="$PROJECT_DIR$/CampusHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ciruy-annotations/ciruy-annotations.iml" filepath="$PROJECT_DIR$/ciruy-annotations/ciruy-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ciruy-compiler/ciruy-compiler.iml" filepath="$PROJECT_DIR$/ciruy-compiler/ciruy-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ciruy-core/ciruy-core.iml" filepath="$PROJECT_DIR$/ciruy-core/ciruy-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ciruy-ec/ciruy-ec.iml" filepath="$PROJECT_DIR$/ciruy-ec/ciruy-ec.iml" />
+    </modules>
+  </component>
+</project>
